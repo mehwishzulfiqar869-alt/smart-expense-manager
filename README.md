@@ -101,8 +101,15 @@ The app runs at `http://localhost:3000`.
 Add screenshots here (login page, dashboard, expense list, split groups, reports).
 **LOGIN PAGE**
 <img width="673" height="311" alt="image" src="https://github.com/user-attachments/assets/d1226963-2395-4c83-a2dc-772d9f3ed9b4" />
-**ADMIN DASHBOARD**
+
 <img width="701" height="308" alt="image" src="https://github.com/user-attachments/assets/b8a0673d-9c1c-4347-9bd4-13d651c5f9a4" />
+
+<img width="1871" height="869" alt="Screenshot 2026-06-03 105606" src="https://github.com/user-attachments/assets/bb60675d-6516-4fa8-bd5b-28e253588b1a" />
+
+<img width="1871" height="742" alt="Screenshot 2026-06-03 104746" src="https://github.com/user-attachments/assets/e60d9aa6-05c3-4bc3-9ca4-907e13f56f95" />
+
+<img width="1850" height="843" alt="Screenshot 2026-06-03 091659" src="https://github.com/user-attachments/assets/eddbd79b-0dc3-4de7-8718-90d1cfd25366" />
+
 
 
 
