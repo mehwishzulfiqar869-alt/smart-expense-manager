@@ -99,6 +99,9 @@ The app runs at `http://localhost:3000`.
 ## Screenshots
 
 Add screenshots here (login page, dashboard, expense list, split groups, reports).
+<img width="673" height="311" alt="image" src="https://github.com/user-attachments/assets/d1226963-2395-4c83-a2dc-772d9f3ed9b4" />
+
+
 
 ## Author
 
