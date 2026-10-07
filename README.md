@@ -17,7 +17,7 @@ Built as my Final Year Project for BSCS at the University of the Punjab.
 - **User management:** admin tools to manage users
 - **Secure authentication:** login with protected RESTful APIs
 
-## Tech Stack | MERN |
+## Tech Stack | MERN | PERN |
 
 | Layer | Technologies |
 | --- | --- |
